@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: canvas only!
 - 😄 Pronouns: Hell/yeah
 - ⚡ Fun fact: I like anime
+
+- Commit dashboard
+- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mangekyo-Sharingan/langs)](https://githubtrends.io)
