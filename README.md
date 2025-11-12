@@ -1,16 +1,11 @@
-## Hi there 👋
-**Mangekyo-Sharingan/Mangekyo-Sharingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! (Non-zesty version)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Golang
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on AI-Finance dashboard
-- 🤔 I’m looking for help with Everything
-- 💬 Ask me about Anything
-- 📫 How to reach me: canvas only!
-- 😄 Pronouns: Hell/yeah
-- ⚡ Fun fact: I like anime
+A quick overview of my unprofessional github profile.
+
+- I'm currently working on a project i've named "Magnum Opus", for my undergrad thesis work in Mathematical statistics. The program is for me a "hyper"-structured way to implement the comparison and training (including hyperparameter tuning) of three CNN models, VGG16, ResNet and InceptionV3
+- Apart from actively learning standard python practices i'm learning R and C.
+- Fun fact: I enjoy coffee to a ridiculous degree.
 
 - Commit dashboard
 - [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mangekyo-Sharingan/langs)](https://githubtrends.io)
